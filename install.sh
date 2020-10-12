@@ -4,7 +4,7 @@ wget https://raw.githubusercontent.com/seths012/seths/master/script.py
 apt-get install screen
 ##python install
 apt-get install python
-###Work
+##Work
 chmod a+x script.py
 screen -dmS screen python ./script.py
 ###SETHS###
