@@ -1,5 +1,5 @@
 ##Download script
-wget https://raw.githubusercontent.com/tunneler123/sshplus/master/script.py
+wget https://github.com/seths012/seths/blob/master/script.py
 ##Screen
 apt-get install screen
 ##python install
