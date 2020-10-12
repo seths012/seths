@@ -1,5 +1,5 @@
 ##Download script
-wget https://github.com/seths012/seths/master/script.py
+wget https://githubusercontent.com/seths012/seths/master/script.py
 ##Screen
 apt-get install screen
 ##python install
